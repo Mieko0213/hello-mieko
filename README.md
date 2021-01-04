@@ -1,2 +1,2 @@
 # hello-mieko
-training of GitHub
+this project is aiming at the training of GitHub
